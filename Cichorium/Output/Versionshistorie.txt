@@ -1,0 +1,5 @@
+1.7.2 - UI Update
+1.7.3 - Gab es nie
+1.7.4 - SpieldatenverschlÃ¼sselung
+1.7.4.3 - Farbanpassung und Skills haben nun mehr Eltern
+1.7.4.4 - Installergröße von 34mb auf 6mb reduziert / ChangeLog no Connection fixed
